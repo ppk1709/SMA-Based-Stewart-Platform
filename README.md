@@ -1,0 +1,1 @@
+# SMA-Based-Stewart-Platform
